@@ -23,3 +23,10 @@ This diagram only shows the published visitor path. It is not a representation o
 ## Make the project reproducible
 
 Add the React source, package manifest, setup/deployment configuration, and screenshots or a short recording. Until then, the hosted demo is the only way to inspect the app; this repository cannot build it locally.
+
+## Architecture
+
+
+![AI-Powered-React-Web-Application-Built-with-OnSpace-AI-Full-Stack-AI-Assisted-Development architecture map](docs/images/ai-powered-react-web-application-built-with-onspace-ai-full-stack-ai-assisted-development-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/ai-powered-react-web-application-built-with-onspace-ai-full-stack-ai-assisted-development-architecture.svg)
